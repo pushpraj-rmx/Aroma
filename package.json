@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "sass": "node-sass scss/main.scss css/main.css",
+    "sass-fontawesome": "node-sass scss/vendors/fontawesome.scss css/fontawesome.css",
     "watch:sass": "npm run sass -- --watch"
   },
   "keywords": [],
@@ -12,5 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^9.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2"
   }
 }

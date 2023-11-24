@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="37.430595mm"
+   height="15.153622mm"
+   viewBox="0 0 37.430595 15.153622"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-84.773844,-84.571714)">
+    <text
+       xml:space="preserve"
+       style="font-size:12.9509px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#ff6e09;fill-opacity:1;stroke-width:0.134905;stroke-linejoin:bevel;stroke-dasharray:0.0674528, 0.0674528"
+       x="103.69842"
+       y="94.012917"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#ff6e09;fill-opacity:1;stroke-width:0.134905"
+         x="103.69842"
+         y="94.012917">Aroma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.07834px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#ff6e09;fill-opacity:1;stroke-width:0.254896;stroke-linejoin:bevel;stroke-dasharray:0.127448, 0.127448"
+       x="102.95477"
+       y="98.83625"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-size:4.07834px;stroke-width:0.254896"
+         x="102.95477"
+         y="98.83625">Re-designing NMPI</tspan></text>
+    <rect
+       style="fill:#ff6e09;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:bevel;stroke-dasharray:0.132292, 0.132292"
+       id="rect2"
+       width="37.430595"
+       height="0.29290539"
+       x="84.773849"
+       y="95.081696"
+       ry="0.1464527" />
+  </g>
+</svg>
