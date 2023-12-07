@@ -3,3 +3,14 @@
   align-items: center;
   justify-content: space-between;
 }
+
+header {
+  background-image: url(../../img/road.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-blur {
+  backdrop-filter: blur(15px);
+}

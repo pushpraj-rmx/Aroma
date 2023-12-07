@@ -1,9 +1,20 @@
 // scss/themes/_colors.scss
 
 // Light Theme
+
+
+// _theme.scss
+
 $primary-color-light: #3498db;
 $secondary-color-light: #e74c3c;
 
 // Dark Theme
 $primary-color-dark: #1e272e;
 $secondary-color-dark: #bdc3c7;
+
+:root {
+  --primary-color: #{$primary-color-light};
+  --secondary-color: #{$secondary-color-light};
+
+  // Add more global variables if needed
+}

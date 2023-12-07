@@ -1,31 +1,13 @@
-// scss/themes/_theme.scss
+// _theme.scss
 
 // Light Theme
-body.light {
-  background-color: #fff;
-  color: #333;
-}
-
-.header.light {
-  background-color: #eee;
-}
-
-.button.light {
-  background-color: #ddd;
-  color: #333;
-}
+$primary-color-light: #3498db;
+$secondary-color-light: #e74c3c;
 
 // Dark Theme
-body.dark {
-  background-color: #333;
-  color: #fff;
-}
+$primary-color-dark: #1e272e;
+$secondary-color-dark: #bdc3c7;
 
-.header.dark {
-  background-color: #555;
-}
-
-.button.dark {
-  background-color: #777;
-  color: #fff;
-}
+// Common
+$background-color: #ffffff; // You can customize this for each theme
+$text-color: #333333; // You can customize this for each theme
